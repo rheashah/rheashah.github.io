@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2 .mbr-navbar__items a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+#slider-7 H1 {
+  color: #7ac673;
+  text-align: left;
+}
+#slider-7 P {
+  color: #f7da64;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  text-align: left;
+}
